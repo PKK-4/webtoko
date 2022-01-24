@@ -1,0 +1,32 @@
+		   {{-- <div class="d-flex">
+    				<div class="mb-3 col-md-4">
+      				    <label for="instagram" class="form-label">Instagram</label>
+      				    <input type="text" class="form-control" name="instagram" id="instagram" placeholder="Instagram anda" value="{{ $item->instagram }}">
+				</div>
+
+			        <div class="mb-3 col-md-4">
+      				    <label for="namabarang" class="form-label">Link Instagram</label>
+      				    <input type="text" class="form-control" name="link_ig" id="namabarang" placeholder="https//:....." value="{{ $item->link_ig }}">
+    				</div>
+			      </div>
+
+			      <div class="d-flex">
+    				<div class="mb-3 col-md-4">
+      				    <label for="namabarang" class="form-label">Facebook</label>
+      				    <input type="text" class="form-control" name="facebook" id="namabarang" placeholder="Facebook anda" value="{{ $item->facebook }}">
+				</div>
+
+			        <div class="mb-3 col-md-4">
+      				    <label for="namabarang" class="form-label">Link Facebook</label>
+      				    <input type="text" class="form-control" name="link_fb" id="namabarang" placeholder="https//:....." value="{{ $item->link_fb }}">
+
+    				</div>
+			      </div>
+
+
+			      <div class="mb-3 col-md-6">
+                                <label for="wa" class="form-label">WhatsAap</label>
+                                <input type="number" class="form-control" name="wa" id="wa" placeholder="+62,..." value="{{ $item->wa }}">
+				<span class="text-danger" style="font-size: 15px;">*Format nomor sesuai WhatsAap anda!!! <br> contoh 6289685830987</span>
+
+                              </div> --}}
